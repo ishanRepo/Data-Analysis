@@ -1,6 +1,6 @@
 # Data-Analysis
 
-1.Assign_1fb
+1.Assign_1fb.ipynb
 
 Performed the following operations using Python on the Facebook metrics data sets
       a. Create data subsets
@@ -13,7 +13,7 @@ Performed the following operations using Python on the Facebook metrics data set
       
       e. Shape and reshape Data
 
-2.Assign_2
+2.Assign_2.ipynb
 
 Perform the following operations using Python on the Heart Diseases data sets
     a. Data cleaning
